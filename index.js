@@ -37,4 +37,10 @@ app.post('/new-message', function(req, res){
             console.log("Message Posted Sucessfully!!!")
             res.end('ok')
         })
+        .catch(err => {
+            //if the message is not posted then this part of the code will trigger!
+            console.log('Error:' , err)
+            res.end('Error :' +err)
+        })
 })
+
