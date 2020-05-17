@@ -44,3 +44,7 @@ app.post('/new-message', function(req, res){
         })
 })
 
+// starting our server on 3000 port
+app.listen(3000, function() {
+    console.log('Telegram App is running on port 3000')
+})
