@@ -32,4 +32,9 @@ app.post('/new-message', function(req, res){
                 text: 'Fuck You !!'
             }
         )
+        .then(response => {
+            //if the message is sucessfully posted then we come in this section
+            console.log("Message Posted Sucessfully!!!")
+            res.end('ok')
+        })
 })
