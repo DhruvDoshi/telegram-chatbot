@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> 🤖 This is a telegram replying bot which will message <super fuck you> when you go and type hey to it.
+<p align="center"> 🤖 This is a telegram replying bot which will message fuck you when you go and type hey to it.
     <br> 
 </p>
 
@@ -36,11 +36,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your bot.
+This is just the basic version of the bot made to learn more about the api provided by telegram!
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+![Working](https://web.telegram.org/#/im?p=@dhruvdoshi_bot)
 
 ## 💭 How it works <a name = "working"></a>
 
