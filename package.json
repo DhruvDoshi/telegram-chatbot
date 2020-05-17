@@ -1,0 +1,23 @@
+{
+  "name": "telegram-chatbot",
+  "version": "1.0.0",
+  "description": "This is a chatbot made with telegram api. I will configure this chatbot in further time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvDoshi/telegram-chatbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "chatbot"
+  ],
+  "author": "Dhruv Doshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhruvDoshi/telegram-chatbot/issues"
+  },
+  "homepage": "https://github.com/DhruvDoshi/telegram-chatbot#readme"
+}
