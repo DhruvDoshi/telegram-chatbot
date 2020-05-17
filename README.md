@@ -85,7 +85,7 @@ curl -F "url=<PASTE THE URL HERE >"  https://api.telegram.org/bot<API KEY OF YOU
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [NODE.JS](https://nodejs.org/en/) - API holder and APP backend
-- [VERSAL](https://vercel.com// -  hosting platform - NOW
+- [VERSAL](https://vercel.com/) -  hosting platform - NOW
 
 ## ✍️ Authors <a name = "authors"></a>
 
