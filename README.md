@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> 🤖 This is a telegram replying bot which will message <super>fuck you</super> when you go and type hey to it.
     <br> 
 </p>
 
