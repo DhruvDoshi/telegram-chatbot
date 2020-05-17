@@ -26,7 +26,6 @@
 - [How it works](#working)
 - [Usage](#usage)
 - [Getting Started](#getting_started)
-- [Deploying your own bot](#deployment)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
